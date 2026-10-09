@@ -72,7 +72,3 @@ Third-year B.Tech student in **Computer Science & Artificial Intelligence**. I b
 **Design & tools:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=s-mriti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-mriti&theme=dark&hide_border=false&layout=compact)
