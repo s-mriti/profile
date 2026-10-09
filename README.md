@@ -7,7 +7,7 @@ Third-year B.Tech student in **Computer Science & Artificial Intelligence**. I b
 - 🤖 AI and data-driven applications
 - 📚 Currently learning: Advanced Java, Data Structures, AI/ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smritipandey302006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smritipandey3026) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smritipandey302006@gmail.com)
 
 ---
 
