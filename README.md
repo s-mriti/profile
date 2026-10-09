@@ -34,7 +34,7 @@ Third-year B.Tech student in **Computer Science & Artificial Intelligence**. I b
 ### 💼 Internship: Alfido Tech (front-end)
 | Project | What it is | Built with |
 |---|---|---|
-| [Quiz App](https://github.com/s-mriti/alfido-tech-frontend-tasks-) | Timed multiple-choice quiz | HTML · CSS · JavaScript |
+| [Quiz App](https://github.com/s-mriti/alfido-tech-frontend-tasks-) | Multiple-choice quiz app | HTML · CSS · JavaScript |
 | [Netflix Clone](https://github.com/s-mriti/alfido-tech--clone-of-netflix) | Netflix-style browsing UI | HTML · CSS · JavaScript |
 | [Portfolio task](https://github.com/s-mriti/alfido-tech-portfolio-) | Personal portfolio | HTML · CSS · Bootstrap 5 |
 
